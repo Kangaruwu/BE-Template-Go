@@ -1,0 +1,17 @@
+# Binaries
+tmp/
+*.exe
+*.log
+
+# IDE/editor
+.vscode/
+*.swp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# .env files
+.env
+
+
